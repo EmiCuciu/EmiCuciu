@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Cuciurean Emilian-Petruț</h2>
+<h2 data-importer="text" align="left">Hi there 👋! I'm Emilian </h2>
 
 ###
 
